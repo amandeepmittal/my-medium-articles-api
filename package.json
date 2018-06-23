@@ -1,6 +1,6 @@
 {
 	"name": "my-medium-articles-api",
-	"version": "0.3.10",
+	"version": "0.4.0",
 	"description": "API for my personal articles on published on Medium",
 	"main": "lib/index.js",
 	"scripts": {
@@ -12,8 +12,7 @@
 		"url": "git+https://github.com/amandeepmittal/my-medium-articles-api.git"
 	},
 	"keywords": [],
-	"author":
-		"Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+	"author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/amandeepmittal/my-medium-articles-api/issues"
