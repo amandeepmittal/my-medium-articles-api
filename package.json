@@ -1,6 +1,6 @@
 {
 	"name": "my-medium-articles-api",
-	"version": "0.4.2",
+	"version": "0.4.3",
 	"description": "API for my personal articles on published on Medium",
 	"main": "lib/index.js",
 	"scripts": {
@@ -24,5 +24,8 @@
 	},
 	"dependencies": {
 		"unique-random-array": "1.0.1"
+	},
+	"engines": {
+		"node": "8"
 	}
 }
