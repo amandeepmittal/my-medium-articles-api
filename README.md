@@ -17,12 +17,8 @@ $ npm install my-medium-articles-api --save
 Require the module in a Node.js application:
 
 ```javascript
-const ArticleFromMedium = require("my-medium-articles-api");
+const ArticleFromMedium = require('my-medium-articles-api');
 ```
-
-### Contributions
-
-PRs of any kind welcome!
 
 #### License
 
