@@ -1,6 +1,6 @@
 {
 	"name": "my-medium-articles-api",
-	"version": "0.7.4",
+	"version": "0.7.5",
 	"description": "API for my personal articles on published on Medium",
 	"main": "lib/index.js",
 	"scripts": {
