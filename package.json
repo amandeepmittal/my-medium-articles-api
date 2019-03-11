@@ -1,6 +1,6 @@
 {
 	"name": "my-medium-articles-api",
-	"version": "0.10.1",
+	"version": "0.10.2",
 	"description": "API for my personal articles on published on Medium",
 	"main": "lib/index.js",
 	"scripts": {
@@ -19,8 +19,8 @@
 	},
 	"homepage": "https://github.com/amandeepmittal/my-medium-articles-api#readme",
 	"devDependencies": {
-		"chai": "4.1.2",
-		"mocha": "5.2.0"
+		"chai": "4.2.0",
+		"mocha": "6.0.2"
 	},
 	"dependencies": {
 		"unique-random-array": "1.0.1"
