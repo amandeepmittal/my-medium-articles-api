@@ -1,9 +1,6 @@
 [
-	"#Gatsbyjs: How to set up and use the #React Static Site Generator https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a ⚛️ #reactjs 💛 #JavaScript",
-	"#ReactNative: Getting Started with #Lottie animations in #Expo https://hackernoon.com/react-native-getting-started-with-lottie-and-expo-8b2105fbb496 #javascript #mobile #app 📱 💛 #javascript #100DaysOfCode",
 	"Follow along with tutorial to build your own minimalist weather app step by step with #ReactNative and Expo ☀️⛅️🌦️🌧️⛈️☁️🌨️📲 https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09",
 	"How to Integrate #Redux in a #ReactNative and #Expo application https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033 ⚛️ + 📱",
-	"Simple Recipe to build a theme based #ReactNative App with Navigation https://hackernoon.com/simple-recipe-to-build-a-theme-app-in-react-native-8e2456f81bc5 ⚛️ + 📱 #Reactjs",
 	"Accessing Geolocation and App Permissions in #ReactNative and #Expo https://medium.com/react-native-training/accessing-geo-location-and-app-permissions-in-react-native-and-expo-e7a1bd4714a2 ⚛️ + 📱 #Reactjs #JavaScript",
 	"Learn How To Use React-Navigation in #ReactNative app https://hackernoon.com/navigation-in-a-react-native-app-cf61ed85e80b ⚛️ + 📱 #Reactjs #JavaScript #programming #mobile #development",
 	"Deploy a #MERN stack app on #Heroku 👨‍💻 Check it out 👉 https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70 OR 💌 Subscribe my news letter to learn more about Web Development https://upscri.be/e51a31/ #Reactjs #Mongodb #Nodejs #JavaScript #Express #WebDevelopment #Programming",
@@ -25,5 +22,6 @@
 	"Follow along this tutorial to build your own chatbot app using #ReactNative & Dialogflow ⚛️+ 📱+ 🤖+ 💬 https://blog.jscrambler.com/build-a-chatbot-with-dialogflow-and-react-native/ #javascript #ai #machinelearning #reactjs #programming",
 	"Follow along this tutorial to build your own Virtual Reality (VR) app using #ReactNative & ViroReact ⚛️+ 📱+ 👀 https://medium.com/crowdbotics/how-to-build-your-first-vr-app-with-viroreact-react-native-and-crowdboticsp-a376b49e1e1d #javascript #reactjs #mobile #dev #programming #react",
 	"Follow along this tutorial to learn and understand #ReactJS Hooks and flexbox with #ReactNative ⚛️+ 📱 https://medium.com/crowdbotics/build-a-react-native-app-with-react-hooks-5498e1d5fdf6 #javascript #mobile #dev #programming #react",
-	"⚛️📱💬 Hot from the #tutorials oven ♨️ 👉 Build a Chat App with Firebase and React Native https://blog.jscrambler.com/build-a-chat-app-with-firebase-and-react-native/  #javascript #js #reactnative #firebase #javascript #mobile #mobiledev #iOS #Chat #Android #programming #blogging #Blog"
+	"⚛️📱💬 Hot from the #tutorials oven ♨️ 👉 Build a Chat App with Firebase and React Native https://blog.jscrambler.com/build-a-chat-app-with-firebase-and-react-native/  #javascript #js #reactnative #firebase #javascript #mobile #mobiledev #iOS #Chat #Android #programming #blogging #Blog",
+	"Learn to build a #serverless #React app with GraphQL API, #AWS #Amplify a and Crowdbotics https://medium.com/crowdbotics/how-to-quickly-build-and-integrate-a-serverless-react-application-with-crowdbotics-and-aws-amplify-8ffd0dd00a67 #javascript #js #reactjs"
 ]
