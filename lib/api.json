@@ -25,7 +25,6 @@
 	"EmotionCSS + #ReactNative = ⚡️ Check out this post on how to get started with both 👉  https://heartbeat.fritz.ai/how-to-use-emotion-js-with-react-native-fccac9c78779 #javascript #js #react #programming #100DaysOfCode",
 	"How to Setup a React App with TypeScript, Storybook, and Crowdbotics https://blog.crowdbotics.com/setup-a-react-app-with-typescript-storybook-and-crowdbotics/ #javascript #react #typescript #reactjs #webdevelopment #dev #web #100DaysOfCode",
 	"Build a Twitter Clone Server with  Apollo Server, Nodejs, and Crowdbotics https://blog.crowdbotics.com/build-a-twitter-clone-server-with-apollo-graphql-nodejs-and-crowdbotics/ #reactjs #nodejs #javascript #webdev #100DaysOfCode #apollo #graphql",
-	"Integrate Stripe Payment API in a React + Node web app https://blog.crowdbotics.com/how-to-setup-a-stripe-checkout-page-in-a-crowdbotics-app/ #reactjs #nodejs #javascript #webdev #100DaysOfCode #apollo #graphql",
 	"🔥 How to use Firebase Cloud Firestrore in a #ReactNative app? https://blog.jscrambler.com/getting-started-with-firestore-and-react-native/ #javascript #100DaysOfCode",
 	"🔥 How to integrate Firebase and Firestore cloud database in a React application https://blog.crowdbotics.com/how-to-integrate-firebase-firestore-react-and-crowdbotics-platform/ #javascript #reactjs #100DaysOfCode #firebase #firestore",
 	"🔥 Learn how to implement an email authentication flow in your React Native and Expo app. https://heartbeat.fritz.ai/how-to-build-an-email-authentication-app-with-firebase-firestore-and-react-native-a18a8ba78574?source=friends_link&sk=37bf7d4808cba603d16cb755c86681ad #javascript #reactnative #firebase #100DaysOfCode",
@@ -36,5 +35,6 @@
 	"⚛️ Learn how to integrate and work with Apollo Client by building a simple #Reactjs and #GraphQL application https://blog.crowdbotics.com/introduction-to-apollo-client-with-graphql-react-and-crowdbotics/ #100DaysOfCode #301DaysOfCode #CodeNewbie #javascript #developers",
 	"⚛️📱 Learn how to work with #Expo's AV (Audio) API by building a Xylophone app in #ReactNative https://heartbeat.fritz.ai/how-to-build-a-xylophone-app-with-audio-api-react-native-and-expo-7d6754a0603c #100DaysOfCode  #javascript",
 	"💬🤖 Learn how to Create a #Chatbot with #Dialogflow, #NodeJS, using custom Webhooks https://blog.crowdbotics.com/build-chatbot-dialogflow-nodejs-webhooks/ #100DaysOfCode #javascript",
-	"⚛️📱 How To Use WebViews in a React Native App? 👉 https://blog.jscrambler.com/how-to-use-webviews-in-a-react-native-app/ #100DaysOfCode #javascript #ReactNative"
+	"⚛️📱 How To Use WebViews in a React Native App? 👉 https://blog.jscrambler.com/how-to-use-webviews-in-a-react-native-app/ #100DaysOfCode #javascript #ReactNative",
+	"⚛️📱 A comprehensive guide on building offline React Native apps with AsyncStorage 👉 https://heartbeat.fritz.ai/building-offline-react-native-apps-with-asyncstorage-dcb4b0657f93 #100DaysOfCode #javascript #ReactNative"
 ]
